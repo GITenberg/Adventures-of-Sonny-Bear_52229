@@ -1,0 +1,33 @@
+_repo: Adventures-of-Sonny-Bear_52229
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Carr, Warner
+    gutenberg_agent_id: '46735'
+    url: http://www.gutenberg.org/2009/agents/46735
+creator:
+  author:
+    agent_name: Fox, Frances Margaret
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '2516'
+    url: http://www.gutenberg.org/2009/agents/2516
+description: ''
+gutenberg_issued: '2016-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Bears -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- !lcsh 'Picnics -- Juvenile fiction'
+- GITenberg
+title: Adventures of Sonny Bear
+url: http://www.gutenberg.org/ebooks/52229
